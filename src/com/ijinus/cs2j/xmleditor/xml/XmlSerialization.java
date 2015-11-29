@@ -58,6 +58,7 @@ public class XmlSerialization {
 	/*
 	 * Attributes
 	 */
+	/// komentarz1 
 	
 	private XStream xstream;
 	
