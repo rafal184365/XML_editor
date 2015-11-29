@@ -31,7 +31,7 @@ public class CastRepTemplate extends TranslationBase {
 	 * Getters
 	 */
 	
-	public String getFrom() {
+	public String getFrom() { // zmiana
 		return From;
 	}
 	public String getTo() {
