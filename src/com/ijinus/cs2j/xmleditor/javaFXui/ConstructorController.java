@@ -25,7 +25,7 @@ import javafx.fxml.FXMLLoader;
 
 import com.ijinus.cs2j.xmleditor.xml.model.ConstructorRepTemplate;
 import com.ijinus.cs2j.xmleditor.xml.model.ParamRepTemplate;
-
+//asdadsasdasdasd
 public class ConstructorController extends TranslationBaseController{
 	
 	@FXML protected ComplexListTemplateController<ParamRepTemplate> params;
