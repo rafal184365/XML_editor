@@ -24,6 +24,8 @@ public class AliasRepTemplate {
 	 * Attributes
 	 */
 	
+	//// NOWA linia testowa - na potrzeby lab
+	
 	private String Alias;
 	private String Namespace;
 	
