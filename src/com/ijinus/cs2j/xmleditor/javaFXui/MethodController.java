@@ -47,7 +47,7 @@ public class MethodController extends ConstructorController{
         fxmlLoader.setController(this);
 
         try {
-            fxmlLoader.load();
+            fxmlLoader.load(); // wkurza mnie to
         } catch (IOException exception) {
             throw new RuntimeException(exception);
         }
@@ -56,7 +56,7 @@ public class MethodController extends ConstructorController{
         populateMethodFields();
 	}
 	
-	private void initializeMethodFields() {
+	private void initializeMethodFields() { // test
 		typeParams.setType(TypeParam.class);
 	}
 
