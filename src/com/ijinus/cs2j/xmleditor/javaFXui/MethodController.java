@@ -52,7 +52,7 @@ public class MethodController extends ConstructorController{
             throw new RuntimeException(exception);
         }
         
-        initializeMethodFields();
+        initializeMethodFields(); // nowy zapis nadrzêdny
         populateMethodFields();
 	}
 	
